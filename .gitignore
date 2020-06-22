@@ -1,0 +1,4 @@
+
+.DS_Store
+notebooks/nn_model.pkl
+notebooks/tfidf_model.pkl
